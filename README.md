@@ -24,7 +24,7 @@ Hi, I’m Gongati Lakshmi Rupanjali — a Full Stack Web Developer with a passio
 
 ## 📸 Live Preview
 
-Coming soon! (Or replace with Netlify/Vercel link if hosted)
+https://curious-parfait-6febde.netlify.app/
 
 ## 🔗 Connect with Me
 
